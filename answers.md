@@ -39,7 +39,7 @@
 
 ## Q5. Finish the lyric: "We know the game..."
 
-- **Type:** a short answer
+- **Type:** Short answer
 - **Correct answer:** "and we're gonna play it"
 - **Full lyric line:** *We know the game and we're gonna play it*
 
@@ -49,7 +49,7 @@
 
 - **Type:** Short answer
 - **Correct answer:** "Don't tell me you're too blind to see"
-- **Full lyric line:** *And if you ask me how I'm feeling, don't tell me you're too blind to*
+- **Full lyric line:** *And if you ask me how I'm feeling, don't tell me you're too blind to see*
 
 ---
 
